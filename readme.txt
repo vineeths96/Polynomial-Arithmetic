@@ -21,6 +21,7 @@ lists. The entire program is written in three files. Comments have been added fr
 understanding the logic behind implementation. Two polynomials have to inputted as (power, coefficient)
 pairs. This program performs the divison of the first polynomial by the second and outputs the quotient
  and remainder in (power, coefficient) pairs. This program repeats indefinitely till exited manually.
+Refer problem statement file for detailed information.
 
 
 OPERATING SYSTEM AND SOFTWARE REQUIRMENTS
