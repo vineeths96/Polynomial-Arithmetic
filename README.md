@@ -28,9 +28,9 @@
 
 ## About The Project
 
-This program performs the division of polynomials represented in memory with doubly linked lists. The entire program is written in three files - `client.c`, `header.c`, and `implement.c`. Comments have been added frequently to help in understanding the logic behind implementation. The two polynomials have to inputted as (power, coefficient) pairs. This program performs the division of the first polynomial by the second and outputs the quotient and remainder in (power, coefficient) pairs. This program repeats indefinitely till exited manually.. Refer [Problem statement](./Problem%20Statement.pdf) file for detailed information.
+This program performs the division of polynomials represented in memory with doubly linked lists. The entire program is written in three files - `client.c`, `header.c`, and `implement.c`. Comments have been added frequently to help in understanding the logic behind implementation. The two polynomials have to inputted as (power, coefficient) pairs. This program performs the division of the first polynomial by the second and outputs the quotient and remainder in (power, coefficient) pairs. This program repeats indefinitely till exited manually. Refer [Problem statement](./Problem%20Statement.pdf) file for detailed information.
 
-The function when executed expects the user to input two polynomials on which division has to be operated. The degree of polynomials has to be inputtted first, which should be following by the (power, coefficient) value pairs. No cofficient of polynomial should be zero and the value pairs should be inputted in decreasing order of powers. Failing to adhere to these conditions would result in termination of the program. After both polynomials are inputted the division() performs the division and stores the quotient and remainder in two lists. They are printed on screen as (power, coefficient) pairs and then the lists are deleted to free up used space. 
+The function when executed expects the user to input two polynomials on which division has to be operated. The degree of polynomials has to be inputted first, which should be following by the (power, coefficient) value pairs. No coefficient of polynomial should be zero and the value pairs should be inputted in decreasing order of powers. Failing to adhere to these conditions would result in termination of the program. After both polynomials are inputted the division() performs the division and stores the quotient and remainder in two lists. They are printed on screen as (power, coefficient) pairs and then the lists are deleted to free up used space. 
 
 ### Built With
 This project was built with 
@@ -60,7 +60,7 @@ make
 ./a.out
 ```
 
-Enter the values from the file (or custom values) as requested during exectuion of the program.
+Enter the values from the file (or custom values) as requested during execution of the program.
 
 ### Staircases
 
