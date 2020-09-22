@@ -62,7 +62,7 @@ make
 
 Enter the values from the file (or custom values) as requested during execution of the program.
 
-### Staircases
+### Testcases
 
 The [testcase.txt](./testcase.txt) contains the 5 test cases. Comments have been added to guide through the test case file to identify where to input data.
 
